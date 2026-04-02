@@ -34,5 +34,3 @@ Ao analisar o dashboard gerado, destacam-se as seguintes conclusões estratégic
 4. Crie o Data Warehouse rodando: `python etl_sqlite.py`
 5. Inicie o Dashboard: `python -m streamlit run dashboard.py`
 
-6. <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/603421a2-fa48-4c73-8952-44b943c350d0" />
-
